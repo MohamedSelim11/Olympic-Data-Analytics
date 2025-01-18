@@ -13,7 +13,7 @@ Data Storage: Storing raw data in Azure Blob Storage for durability and scalabil
 ![BlobStorage](https://github.com/MohamedSelim11/Olympic-Data-Analytics/blob/main/Screenshots/03.png)
 Data Processing: Employing Azure Databricks for data connection, transformation, and Loading.
 
-![Databricks Notebook](https://github.com/MohamedSelim11/Olympic-Data-Analytics/blob/main/Tokyo-olympics.ipynb)
+[Databricks Notebook](https://github.com/MohamedSelim11/Olympic-Data-Analytics/blob/main/Tokyo-olympics.ipynb)
 
 
 Data Visualization: Creating interactive dashboards using Power BI to present analytical insights.
