@@ -4,7 +4,7 @@ Olympic Data Analytics | Azure End-To-End Data Engineering Project
 # Project Overview
 The primary objective is to demonstrate the capabilities of Azure's data engineering tools by implementing a comprehensive data pipeline that handles data from ingestion to visualization.
 
-#Architecture
+# Architecture
 The project architecture includes the following components:
 
 Data Ingestion: Utilizing Azure Data Factory to extract data from various sources.
