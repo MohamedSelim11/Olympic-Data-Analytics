@@ -6,7 +6,7 @@ The primary objective is to demonstrate the capabilities of Azure's data enginee
 
 # Architecture
 The project architecture includes the following components:
-
+![architecture](https://github.com/MohamedSelim11/Olympic-Data-Analytics/blob/main/Screenshots/01.png)
 Data Ingestion: Utilizing Azure Data Factory to extract data from various sources.
 
 Data Storage: Storing raw data in Azure Blob Storage for durability and scalability.
