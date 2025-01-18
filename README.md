@@ -8,11 +8,11 @@ The primary objective is to demonstrate the capabilities of Azure's data enginee
 The project architecture includes the following components:
 ![architecture](https://github.com/MohamedSelim11/Olympic-Data-Analytics/blob/main/Screenshots/01.png)
 Data Ingestion: Utilizing Azure Data Factory to extract data from various sources.
-
+![DataFactory](https://github.com/MohamedSelim11/Olympic-Data-Analytics/blob/main/Screenshots/04.png)
 Data Storage: Storing raw data in Azure Blob Storage for durability and scalability.
+![BlobStorage](https://github.com/MohamedSelim11/Olympic-Data-Analytics/blob/main/Screenshots/03.png)
+Data Processing: Employing Azure Databricks for data connection, transformation, and Loading.
+![](https://github.com/MohamedSelim11/Olympic-Data-Analytics/blob/main/Tokyo-olympics.ipynb)
 
-Data Processing: Employing Azure Databricks for data transformation and cleansing.
-
-Data Warehousing: Loading processed data into Azure SQL Data Warehouse for structured storage.
 
 Data Visualization: Creating interactive dashboards using Power BI to present analytical insights.
